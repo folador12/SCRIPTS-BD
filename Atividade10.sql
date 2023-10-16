@@ -64,7 +64,6 @@ CREATE TABLE Cidade (
     CDCidade INTEGER,
     SGEstado CHAR(2),
     NMCidade VARCHAR(10),
-    SGEstado CHAR(2),
 
     PRIMARY KEY (CDCidade,SGEstado)
 );
